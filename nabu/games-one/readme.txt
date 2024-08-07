@@ -15,6 +15,7 @@ Other information “txt” files can be found on the drive image.
 
 Reference Links:
 https://nabu.ca/cloud-cpm
+https://github.com/GryBsh/NabuNetSim
 https://gtamp.com/nabu/
 https://github.com/lesbird/MSX8
 https://github.com/brijohn/nabupc
