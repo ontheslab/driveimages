@@ -13,6 +13,16 @@ You can rename and copy this file to your NIA “Store” folder as (for example
 
 Other information “txt” files can be found on the drive image.
 
+** Updates **
+
+Original "Cloud CP/M" images: nabu-games1v1.zip
+
+Added "Folder" Based image for use with other NABU CP/M's (targeted at Ishkur under NNS)
+
+Folder structure: nabu-games1v1.zip
+
+------------------------------------------------------------------------------------------------
+
 Reference Links:
 https://nabu.ca/cloud-cpm
 https://github.com/GryBsh/NabuNetSim
