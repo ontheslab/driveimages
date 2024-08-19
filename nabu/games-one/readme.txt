@@ -21,6 +21,8 @@ Added "Folder" Based image for use with other NABU CP/M's (targeted at Ishkur un
 
 Folder structure: nabu-games1v1.zip
 
+Added NABU Games (Image v1a) - Labomb MAME Version: nabu-mame-labomb-games1v1.zip
+
 ------------------------------------------------------------------------------------------------
 
 Reference Links:
@@ -29,3 +31,5 @@ https://github.com/GryBsh/NabuNetSim
 https://gtamp.com/nabu/
 https://github.com/lesbird/MSX8
 https://github.com/brijohn/nabupc
+https://github.com/labomb/NABU_PC_CPM_2.2
+
